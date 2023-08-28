@@ -1,0 +1,22 @@
+{
+  "name": "weinfusecodingexercise",
+  "version": "1.0.0",
+  "description": "Coding interview question for job application",
+  "main": "WeInfuseCodingExercise.ts",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jest": "^29.6.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "run": "ts-node WeInfuseCodingExercise.ts",
+    "test": "jest",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.4"
+  }
+}
